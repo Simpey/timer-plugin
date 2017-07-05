@@ -1,0 +1,39 @@
+.clockTitle{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+    color: #d19fae;
+    margin-top: 5px;
+}
+#clockdiv{
+    font-family: sans-serif;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    display: block;
+    font-size: 20px;
+}
+
+#clockdiv > div{
+    padding: 8px;
+    display: inline-block;
+}
+
+#clockdiv div > span{
+    padding: 5px;
+    font-size: 30px;
+    display: inline-block;
+    color:#494949;
+    font-weight: bold;
+}
+
+.smalltext{
+    padding-top: 3px;
+    font-size: 16px;
+    color: #d19fae;
+    font-weight: bold;
+}
+
+.tp-title {
+    background-color: #d19fae;
+}
